@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/34067597/README.md)
-[README.md](https://github.com/user-attachments/files/33967833/README.md)
-# furryOS
+[README.md]
+
 # furryOS
 
-**Arch-based · Hyprland · pink paws**
+**Arch-based · Hyprland · paws**
 
 [![GitHub](https://img.shields.io/badge/GitHub-repo-181717?logo=github)](https://github.com/volodyatobolov-droid/furryOS)
 [![Discord](https://img.shields.io/badge/Discord-сообщество-5865F2?logo=discord&logoColor=white)](https://discord.gg/48aRJRcy6S)
